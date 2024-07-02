@@ -18,6 +18,7 @@
     <br>
 
     <label for="psw"><b>Password</b></label>
+    <br>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
